@@ -1,0 +1,38 @@
+{
+  "name": "@arsil_malek/rn-scale-window",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react-native",
+    "responsive",
+    "scale",
+    "window",
+    "screen",
+    "utility",
+    "fontSize",
+    "pixel",
+    "device"
+  ],
+  "author": "Arsil Malek",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodArsh/Soft-ScaleWindow.git"
+  },
+  "description": "A lightweight and powerful utility for responsive scaling in React Native apps. Easily handle consistent font sizes, heights, widths, and layouts across all screen sizes.",
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-native": "^0.72.8",
+    "react": "^19.1.0",
+    "react-native": "^0.80.0",
+    "typescript": "^5.8.3"
+  }
+}
