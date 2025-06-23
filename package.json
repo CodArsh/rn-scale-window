@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodArsh/Soft-ScaleWindow.git"
+    "url": "https://github.com/CodArsh/rn-scale-window"
   },
   "description": "A lightweight and powerful utility for responsive scaling in React Native apps. Easily handle consistent font sizes, heights, widths, and layouts across all screen sizes.",
   "devDependencies": {
