@@ -1,1 +1,1 @@
-export * from './src/components/ScaleWindow';
+export { scale, fontScale, moderateScale, verticalScale, DEVICE } from './src/components/ScaleWindow';
